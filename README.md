@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Goframe](https://github.com/gogf/gf)
 
-- 📝 I regularly write articles on [xinyu.today](xinyu.today)
+- 📝 I regularly write articles on [仓鼠杂货铺](buycoffee.top)
 
 - 💬 Ask me about **linux\Go\Python**
 
