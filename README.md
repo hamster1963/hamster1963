@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamster1963</h1>
 
 <p align="center">
-  <img src= "https://s2.loli.net/2023/05/09/OPIvXwoyWBfTktd.png" width="50%"></img>
+  <img src= "/me.png" width="50%"></img>
 </p>
 
 - 🔭 I’m currently working on [HomeDash](https://github.com/hamster1963/HomeDash)
