@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamster1963</h1>
+<h1 align="center">Hi 👋, I'm Hamster1963.</h1>
 
 <p align="center">
   <img src= "/me.png" width="50%"></img>
